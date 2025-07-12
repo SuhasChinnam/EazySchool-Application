@@ -1,2 +1,2 @@
-EazySchool Application 
+# EazySchool Application 
 * Used Spring Framework, SpringBoot, REST, JPA, Hybernate
